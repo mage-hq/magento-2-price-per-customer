@@ -1,5 +1,5 @@
 # magento-2-price-per-customer
-Price Per Customer for Magento 2 allows admin to customize product price for each customer or each customer group, this feature helps increase customer satisfaction and engagement, helping to build stronger customer relationships by offering individual discounts.
+Magento 2 Price Per Customer extension allows admin to adjust product prices for each customer or customer group. This feature helps enhance customer satisfaction and engagement, helping to build stronger customer relationships by offering special discounts.
 
 Please go to https://magehq.com/magento-2-price-per-customer.html buy extension
 
